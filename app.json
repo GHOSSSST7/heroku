@@ -1,13 +1,13 @@
 {
-  "name": "JMTHON",
-  "description": " Arabic jmthonc Powerful & Safe based on Telethon",
+  "name": "ITALIA USERBOT",
+  "description": " Arabic Powerful & Safe based on Telethon",
   "logo": "",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/jmthonen/zuhairy",
+  "repository": "https://github.com/sa3ed266it/heroku",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -43,19 +43,17 @@
       "description": "هنا ضع توكن بوتك الذي صنعته",
       "value": ""
     },
-    "HEROKU_API_KEY": {
-      "description": "هنا ضع الايبي كي الخاص بحساب هيروكو من هذا الرابط https://dashboard.heroku.com/account",
-      "value": "",
-      "required": false
+    "PRIVATE_GROUP_BOT_API_ID": {
+      "description": "ايدى الجروب يكون البوت موجود فيه",
+      "value": ""
     },
-    "HEROKU_APP_NAME": {
-      "description": "اسم التطبيق",
-      "value": "",
-      "required": false
+    "PM_LOGGER_GROUP_ID": {
+      "description": "ايدى الجروب يكون البوت موجود فيه",
+      "value": ""
     },
     "TZ": {
       "description": "المنطقه الزمنيه من القارة الخاصه بك وعاصمه بلدك يجب ان يكون اول حرف كبير",
-      "value": "Asia/Baghdad",
+      "value": "Africa/Cairo",
       "required": false
     },
     "UPSTREAM_REPO": {
