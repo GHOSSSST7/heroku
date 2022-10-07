@@ -1,7 +1,7 @@
-FROM sbb-b/sbb_b:slim-buster
+FROM theteamultroid/ultroid:main
 
 #clonning repo 
-RUN git clone https://github.com/jmthonar/sbb_b0.git /root/sbb_b
+RUN git clone https://github.com/sa3ed266it/jmuserbot.git /root/sbb_b
 #working directory 
 WORKDIR /root/sbb_b
 
