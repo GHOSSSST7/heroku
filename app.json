@@ -68,6 +68,11 @@
       "value": "Africa/Cairo",
       "required": false
     },
+    "VCMODE": {
+      "description": "لتفعيل اوامر تشغيل الميوزك اكتب True",
+      "value": "",
+      "required": false
+    },
     "UPSTREAM_REPO": {
       "description": "رمز السورس لا تغيره ابدا",
       "value": "sbb_b",
