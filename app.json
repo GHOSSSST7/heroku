@@ -45,11 +45,23 @@
     },
     "PRIVATE_GROUP_BOT_API_ID": {
       "description": "ايدى الجروب يكون البوت موجود فيه",
-      "value": ""
+      "value": "",
+      "required": false
     },
     "PM_LOGGER_GROUP_ID": {
       "description": "ايدى الجروب يكون البوت موجود فيه",
-      "value": ""
+      "value": "",
+      "required": false
+    },
+    "HEROKU_API_KEY": {
+      "description": "هنا ضع الايبي كي الخاص بحساب هيروكو من هذا الرابط https://dashboard.heroku.com/account",
+      "value": "",
+      "required": false
+    },
+    "HEROKU_APP_NAME": {
+      "description": "اسم التطبيق",
+      "value": "",
+      "required": false
     },
     "TZ": {
       "description": "المنطقه الزمنيه من القارة الخاصه بك وعاصمه بلدك يجب ان يكون اول حرف كبير",
