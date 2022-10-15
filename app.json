@@ -1,7 +1,7 @@
 {
   "name": "ITALIA USERBOT",
   "description": " Arabic Powerful & Safe based on Telethon",
-  "logo": "",
+  "logo": "https://telegra.ph/file/7596336e89deec2a0c87a.jpg",
   "keywords": [
     "plugin",
     "modular",
@@ -36,7 +36,7 @@
       "value": ""
     },
     "TG_BOT_USERNAME": {
-      "description": "هنا ضع معرف بوتك بدون @",
+      "description": "هنا ضع يوزر بوتك بدون @",
       "value": ""
     },
     "TG_BOT_TOKEN": {
