@@ -1,5 +1,5 @@
 {
-  "name": "ITALIA USERBOT",
+  "name": "GHOST USERBOT",
   "description": " Arabic Powerful & Safe based on Telethon",
   "logo": "https://telegra.ph/file/7596336e89deec2a0c87a.jpg",
   "keywords": [
@@ -7,21 +7,21 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/sa3ed266it/heroku",
+  "repository": "https://github.com/GHOSSSST7/GHOST_USERBOT",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
       "description": "هنا ضع اسم التلجرام الخاص بك",
-      "value": ""
+      "value": "𝙈𝘼𝙃𝙈𝙊𝙐𝘿"
     },
     "APP_ID": {
       "description": "هنا ضع الاب ايدي الخاص بك يتكون من 8 ارقام", 
-      "value": ""
+      "value": "9488183"
     },
     "API_HASH": {
       "description": "هنا ضع الايبي هاش الخاص بك",
-      "value": ""
+      "value": "3cc7c94bec23e67b6bf911ed31db5055"
     },
     "ENV": {
       "description": "لا تغير هذه القيمه",
@@ -33,23 +33,23 @@
     },
     "STRING_SESSION": {
       "description": "هنا ضع كود سيشن تيليثون كود تيرمكس الخاص بك",
-      "value": ""
+      "value": "1BJWap1sBu50e0k6nX0Xn-B1YzC6lc23Z1xHIQZFXZrBVJ3yWEGfbId81Ogxpkv49myULjKCg9oiLbvGGPvd_AaK15P8u22NTySWgEkokErx_EST3abz8cqvMB95oy1DFOhQjKxAjAn3h6GPgDEuJ5GUrSPgWY0HeN5_XeQ0-ld0XV8cuPo9mfnPtk7yGOhJXZ9W3DVhrFNh9RQQSRxNT-FmhjYC2kuLBp3sSzBFaclCELwmoKP33vgZnlHh1TNI40TlnnW-Qhxlv6vkOham9jC6psg8kplt_fMlFl5LOAjlbYrx24Jv0g6Xa60Bdwue8vqfOgHDjnuWBS1sl8a6pSBP7CMCa-30="
     },
     "TG_BOT_USERNAME": {
       "description": "هنا ضع يوزر بوتك بدون @",
-      "value": ""
+      "value": "Mido_Jr7bot"
     },
     "TG_BOT_TOKEN": {
       "description": "هنا ضع توكن بوتك الذي صنعته",
-      "value": ""
+      "value": "5575942027:AAFKoB70O9X1uN-XzQVNP6Z4LVyLlykxltM"
     },
     "PRIVATE_GROUP_BOT_API_ID": {
       "description": "ايدى الجروب يكون البوت موجود فيه",
-      "value": ""
+      "value": "-1001731138394"
     },
     "PM_LOGGER_GROUP_ID": {
       "description": "ايدى الجروب يكون البوت موجود فيه",
-      "value": ""
+      "value": "-1001731138394"
     },
     "HEROKU_API_KEY": {
       "description": "هنا ضع الايبي كي الخاص بحساب هيروكو من هذا الرابط https://dashboard.heroku.com/account",
